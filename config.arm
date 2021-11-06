@@ -1,0 +1,20 @@
+{
+    "rp_bloom": true,
+    "rp_dynres": false,
+    "rp_gi": true,
+    "rp_motionblur": true,
+    "rp_shadowmap_cascade": 2048,
+    "rp_shadowmap_cube": 2048,
+    "rp_ssgi": true,
+    "rp_ssr": true,
+    "rp_supersample": 1.0,
+    "window_h": 1080,
+    "window_maximizable": true,
+    "window_minimizable": true,
+    "window_mode": 1,
+    "window_msaa": 1,
+    "window_resizable": true,
+    "window_scale": 1.0,
+    "window_vsync": true,
+    "window_w": 1920
+}
